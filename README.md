@@ -5,6 +5,8 @@
   e também sigo estudando para me tornar um desenvolvedor de excelência.
 </h3>
 
+<h3>Continuo sempre em busca de novos desafios que eu possa aprender com eles. :mountain:</h3>
+
 <h3> Estas são minhas redes sociais, qualquer coisa só entrar em contato. :sunglasses: </h3>
 
 - [Twitter](https://twitter.com/arthurv05)
