@@ -1,8 +1,12 @@
 <h1 align="center">Olá, eu me chamo Arthur Furtunato e esse é o meu GitHub :grin:</h1>
 
 <h3> 
-  💻 Atualmente trabalho com desenvolvimento com a linguagem de Python :snake: utilizando do framework Django,
+  💻 Atualmente trabalho com desenvolvimento em JavaScript e Typescript utilizando do framework NestJS,
   e também sigo estudando para me tornar um desenvolvedor de excelência.
+</h3>
+
+<h3>
+  Possuo também experiência com Python, onde trabalhei com o framework Django. :snake:
 </h3>
 
 <h3>Continuo sempre em busca de novos desafios que eu possa aprender com eles. :mountain:</h3>
