@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu me chamo Arthur Furtunato e esse é o meu GitHub :grin:</h1>
 
 <h3> 
-  💻 Atualmente trabalho com desenvolvimento em JavaScript e Typescript utilizando do framework NestJS,
+  💻 Atualmente trabalho com desenvolvimento em Typescript utilizando do framework NestJS,
   e também sigo estudando para me tornar um desenvolvedor de excelência.
 </h3>
 
