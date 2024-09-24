@@ -6,7 +6,7 @@
 </h3>
 
 <h3>
-  Possuo também experiência com Python, onde trabalhei com o framework Django. :snake:
+  Possuo também experiência com Python, onde trabalhei com o framework Django e atualmente trabalho também com o framework FastAPI. :snake:
 </h3>
 
 <h3>Continuo sempre em busca de novos desafios que eu possa aprender com eles. :mountain:</h3>
