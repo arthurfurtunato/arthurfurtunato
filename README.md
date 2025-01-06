@@ -1,8 +1,10 @@
 <h1 align="center">Olá, eu me chamo Arthur Furtunato e esse é o meu GitHub :grin:</h1>
 
+<h3>Sou formado em Engenharia Elétrica pela UFRN (Universidade Federal do Rio Grande do Norte) 🎓</h3>
+
 <h3> 
-  💻 Atualmente trabalho com desenvolvimento em Typescript utilizando do framework NestJS,
-  e também sigo estudando para me tornar um desenvolvedor de excelência.
+  Atualmente trabalho com desenvolvimento em Typescript utilizando do framework NestJS,
+  e também sigo estudando para me tornar um desenvolvedor de excelência. 💻 
 </h3>
 
 <h3>
